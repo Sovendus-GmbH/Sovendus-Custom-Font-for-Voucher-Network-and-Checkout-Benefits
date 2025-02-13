@@ -1,4 +1,4 @@
-# Font Configuration for Sovendus
+# Custom font for voucher network & checkout benefits
 
 ## 1. Host the font file(s) on your server
 
@@ -23,7 +23,6 @@ For example, on an Apache server, you can add the following to your `.htaccess`:
     </IfModule>
 </FilesMatch>
 ```
-
 
 ## 3. Send the font URL(s) to Sovendus UX
 
